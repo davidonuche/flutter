@@ -159,7 +159,7 @@ class IconButton extends StatelessWidget {
     this.highlightColor,
     this.splashColor,
     this.disabledColor,
-    required this.onPressed,
+    this.onPressed,
     this.mouseCursor,
     this.focusNode,
     this.autofocus = false,

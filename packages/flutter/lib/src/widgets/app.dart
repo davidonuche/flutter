@@ -3,11 +3,9 @@
 // found in the LICENSE file.
 
 import 'dart:collection' show HashMap;
-
 import 'package:flutter/foundation.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
-
 import 'actions.dart';
 import 'banner.dart';
 import 'basic.dart';
@@ -29,7 +27,6 @@ import 'shortcuts.dart';
 import 'text.dart';
 import 'title.dart';
 import 'widget_inspector.dart';
-
 export 'dart:ui' show Locale;
 
 /// The signature of [WidgetsApp.localeListResolutionCallback].
